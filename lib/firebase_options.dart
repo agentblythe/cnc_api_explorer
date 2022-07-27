@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDz4RbMNebWtkjo6lGMOp4HOQ98BwuOORk',
-    appId: '1:191070232753:android:74a9dab4333a3508010290',
+    appId: '1:191070232753:android:698dd357684e39f7010290',
     messagingSenderId: '191070232753',
     projectId: 'cnc-api-explorer-3fb4e',
     storageBucket: 'cnc-api-explorer-3fb4e.appspot.com',
@@ -65,11 +65,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCYqACy0maxNiUQ6ABf3jibLcxdlEnNDRE',
-    appId: '1:191070232753:ios:b97fad84e8cea039010290',
+    appId: '1:191070232753:ios:e8650893a58ea4e0010290',
     messagingSenderId: '191070232753',
     projectId: 'cnc-api-explorer-3fb4e',
     storageBucket: 'cnc-api-explorer-3fb4e.appspot.com',
-    iosClientId: '191070232753-l43ic1d3ol1lsiv21jkdrdqtm435let3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.cncApiExplorer',
+    iosClientId: '191070232753-ff5vmqav4i14nku8l751c8ia85ln5u6q.apps.googleusercontent.com',
+    iosBundleId: 'com.steveblythe.cncApiExplorer',
   );
 }

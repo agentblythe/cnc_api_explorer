@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.cnc_api_explorer">
+    package="com.steveblythe.cnc_api_explorer">
    <application
         android:label="cnc_api_explorer"
         android:name="${applicationName}"

@@ -1,4 +1,4 @@
-package com.example.cnc_api_explorer
+package com.steveblythe.cnc_api_explorer
 
 import io.flutter.embedding.android.FlutterActivity
 
